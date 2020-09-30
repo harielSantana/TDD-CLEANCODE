@@ -1,6 +1,4 @@
 from datetime import datetime
-
-
 from model.usuario import User
 from model.sala import Sala
 from model.reserva import Reserva
